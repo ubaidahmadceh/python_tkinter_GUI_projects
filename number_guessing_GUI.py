@@ -1,7 +1,7 @@
 from tkinter import *
 from random import randint
 root = Tk()
-root.title("Number Guessing Game GUI")
+root.title("Number Guessing wali Game GUI")
 root.geometry('300x300')
 
 number = randint(1,11)
